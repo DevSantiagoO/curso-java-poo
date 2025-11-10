@@ -26,13 +26,14 @@ Sigue estos pasos para añadir una nueva clase a tu proyecto:
 2.  Seleccionar el menú **`New`**.
 3.  Elegir la opción **`Java Class...`**.
 4.  Asignar el nombre, respetando las convenciones.
+
 ![alt text](creacion-de-clase.png)
 
 ### 4. Ejemplo Práctico: Clase `Persona`
 
 El siguiente ejemplo muestra la estructura básica de una clase `Persona` con tres atributos:
 
-```java
+````java
 public class Persona {
 
     // Atributos (Características) de la clase Persona
@@ -43,4 +44,8 @@ public class Persona {
 
     // Aquí irían los métodos (comportamientos)
 }
+````
+
+**Ejemplo en netbeans.**
+
 ![alt text](clase-persona.png)
