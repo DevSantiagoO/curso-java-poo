@@ -2,7 +2,6 @@
 
 Las Clases Abstractas son un elemento fundamental en la POO para definir una estructura común sin implementar completamente la lógica, forzando a las Clases Hijas a hacerlo.
 
-
 ## 1. Definición y Propósito
 
 ### ¿Qué son las Clases Abstractas?
