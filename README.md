@@ -105,6 +105,8 @@ Sitio web: https://todocodeacademy.com/
 
 Agradecimiento especial a Luisina de TODOCODE por las explicaciones claras, ejercicios integradores y contenido que inspiró la creación y estructura de este repositorio.
 
+![Image](https://todocodeacademy.com/wp-content/uploads/2020/12/cropped-LogoConSombras-sinfondo-166x38.png)
+
 ## Apoyá este proyecto
 
 Si te sirve este contenido:
