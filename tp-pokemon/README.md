@@ -16,18 +16,28 @@ El proyecto tiene como finalidad modelar la lógica de ataques de diferentes cri
 El código Java sigue una estructura de paquetes lógica para mantener la organización:
 ```
 tp-pokemon/
-
-├── src/
-
-│   └── pokemon/
-
-│       ├── interfaces/  // Define los "contratos" de ataque (IElectrico, IFuego, IPlanta, IAgua).
-
-│       ├── modelos/     // Contiene la Clase Abstracta Pokemon.
-
-│       └── clases/      // Contiene las Clases Concretas (Charmander, Pikachu, Bulbasaur, Squirtle).
-
-└── Main.java            // Punto de entrada del programa, donde se crean las instancias y se prueban los métodos.
+├── Source Packages/
+│ ├── interfaz/
+│ │ ├── IAgua.java
+│ │ ├── IElectrico.java
+│ │ ├── IFuego.java
+│ │ └── IPlanta.java
+│ │
+│ └── logica/
+│ ├── Bulbasaur.java
+│ ├── Charmander.java
+│ ├── Pikachu.java
+│ ├── Squirtle.java
+│ ├── Pokemon.java
+│ └── TpPokemon.java // Clase principal (main)
+│
+├── Test Packages/ // (Vacío)
+│
+├── Libraries/
+│
+├── Test Libraries/
+│
+└── Guia-de-ejercicio-Pokemon.pdf
 ```
 
 ## Cómo Ejecutar
@@ -39,6 +49,6 @@ tp-pokemon/
 
 ---
 
-**Autor:** [DevSantiagoO]
+**Autor:** DevSantiagoO
 
 **Curso:** POO con Java, TodoCode Academy.
